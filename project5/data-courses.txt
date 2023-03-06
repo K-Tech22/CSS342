@@ -1,0 +1,79 @@
+CSS101 Digital Thinking
+CSS107 Introduction to Programming through Animated Storytelling
+CSS110 Introduction to Cybersecurity
+CSS112 Introduction to Programming for Scientific Applications
+CSS123 Programming for Data Science
+CSS132 Computer Programming for Engineers I
+CSS133 Computer Programming for Engineers II
+CSS142 Computer Programming I
+CSS143 Computer Programming II
+CSS173 Fundamentals of Programming Theory and Applications
+CSS198 Supervised Study
+CSS199 Computing Research
+CSS205 Women in STEM Seminar: College Life
+CSS211 Computers and Society
+CSS225 Physics and Chemistry of Computer Components and Their Manufacture
+CSS290 Topics in Computing
+CSS295 K-12 Computing Education
+CSS301 Technical Writing for Computing Professionals
+CSS305 Survey of Computer Systems for Teachers
+CSS310 Information Assurance and Cybersecurity
+CSS315 Cybersecurity Ethics, Policy, and Law
+CSS320 Digital Forensics
+CSS330 Topics in Mathematics for Software Development
+CSS337 Secure Systems
+CSS295 K-12
+CSS340 Applied Algorithmics
+CSS112 Programming
+CSS342 Data Structures, Algorithms, and Discrete Mathematics I
+CSS343 Data Structures, Algorithms, and Discrete Mathematics II
+CSS350 Management Principles for Computing Professionals
+CSS360 Software Engineering
+CSS370 Analysis and Design
+CSS371 The Business of Technology
+CSS382 Introduction to Artificial Intelligence
+CSS383 Bioinformatics
+CSS385 Introduction to Game Development
+CSS390 Special Topics
+CSS397 Computing Internship
+CSS405 Women in STEM Seminar: Career/Professional Life
+CSS411 Computing Technology and Public Policy
+CSS415 Emerging Topics in Information Assurance and Cybersecurity
+CSS416 Ethical Hacking and Penetration Testing
+CSS421 Introduction to Hardware and Operating Systems
+CSS422 Hardware and Computer Organization
+CSS427 Introduction to Embedded Systems
+CSS430 Operating Systems
+CSS431 Network Architecture and Management
+CSS432 Network Design and Programming
+CSS434 Parallel and Distributed Computing
+CSS436 Cloud Computing
+CSS444 Analyzing Biases in the Age of Digital Data
+CSS448 Introduction to Compilers
+CSS449 Design and Analysis of Algorithms
+CSS450 Computer Graphics
+CSS451 3-D Computer Graphics
+CSS452 Game Engine Development
+CSS455 Introduction to Computational Science and Scientific Programming
+CSS457 Signal Computing
+CSS458 Fundamentals of Computer Simulation Theory and Application
+CSS461 Software Project Management
+CSS473 Entrepreneurship Seminar
+CSS474 Product Development Lab
+CSS475 Database Systems
+CSS477 Foundations of Secure Software Development
+CSS478 Usability and User-Centered Design
+CSS480 Principles of Human-Computer Interaction
+CSS481 Web Programming and Applications
+CSS482 Expert Systems
+CSS483 Bioinformatics Algorithms
+CSS484 Multimedia Data Processing
+CSS485 Artificial Neural Networks
+CSS486 Machine Intelligence
+CSS487 Computer Vision
+CSS490 Special Topics in Computing and Software Systems
+CSS495 Applied Computing Internship
+CSS496 Applied Computing Capstone
+CSS497 Computer Science and Software Engineering Capstone
+CSS498 Independent Study
+CSS499 Undergraduate Research
